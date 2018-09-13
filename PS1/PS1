@@ -1,0 +1,5 @@
+Problem 1.
+Write a program that computes and prints the 1000th prime number.
+
+Problem 2.
+Write a program that computes the sum of the logarithms of all the primes from 2 to some number n, and print out the sum of the logs of the primes, the number n, and the ratio of these two quantities. Test this for different values of n. You should be able to make only some small changes to your solution to Problem 1 to solve this problem as well.
